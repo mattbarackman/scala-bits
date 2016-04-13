@@ -14,6 +14,8 @@
 ### Further Reading:
 - [Scala - What is Scala?](http://www.scala-lang.org/what-is-scala.html)
 
+
+
 ## What is a compiled language?
 
 - Source code is run through a compiler that converts it from one programming language to another.
@@ -45,6 +47,8 @@ TBD
 ### Further Reading:
 - [Wikipedia - Compiler](https://en.wikipedia.org/wiki/Compiler)
 - [Wikipedia - Compiled Language](https://en.wikipedia.org/wiki/Compiled_language)
+
+
 
 ## What is an interpreted language?
 
@@ -79,6 +83,8 @@ TBD
 ### Further Reading:
 - [Wikipedia - Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine)
 
+
+
 ## What is object-oriented programming (OOP)?
 
 - A paradigm for organizing code into objects that map to intuitive mental maps of the world.
@@ -94,6 +100,7 @@ TBD
 
 ### Further Reading:
 - [Wikipedia - Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+
 
 
 ## What is functional programming (FP)?
