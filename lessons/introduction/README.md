@@ -81,7 +81,7 @@ TBD
 
 ## What is object-oriented programming (OOP)?
 
-- A paradigm for organizing code into objects that map to intuitive understandings of the world.
+- A paradigm for organizing code into objects that map to intuitive mental maps of the world.
 - These objects contain data and methods (procedures) for operating on that data.
 - Methods are generally defined on objects called classes, and instances are generated from those classes containing specific data.
   - e.g. You may have a class Car, with specific instances having different mileages, ages, and fuel levels.
@@ -100,7 +100,7 @@ TBD
 
 - A paradigm of programming where data is immutable and side-effects are pushed out to the surface of the code.
 
-- In its purest form, functions written in this way are called referentially transaparent, which means that a function doensn't mutate state and always returns the same result for the given arguments no matter the context.
+- In its purest form, functions written in this way are called **referentially transaparent**, which means that a function doensn't mutate state and always returns the same result for the given arguments no matter the context.
 
 ```scala
   var counter: Int = 0
