@@ -11,7 +11,7 @@
 - Object-Oriented
 - Functional
 
-### Resources:
+### Further Reading:
 - [Scala - What is Scala?](http://www.scala-lang.org/what-is-scala.html)
 
 ## What is a compiled language?
@@ -42,6 +42,10 @@
 
 TBD
 
+### Further Reading:
+- [Wikipedia - Compiler](https://en.wikipedia.org/wiki/Compiler)
+- [Wikipedia - Compiled Language](https://en.wikipedia.org/wiki/Compiled_language)
+
 ## What is an interpreted language?
 
 - Source code is interpreted directly at runtime by an interpreter.
@@ -63,10 +67,17 @@ TBD
 - Without static type-checking, bugs are often only found at runtime
 - Generally not as performant as native machine code.
 
+### Further Reading:
+- [Wikipedia - Interpreter (computing)](https://en.wikipedia.org/wiki/Interpreter_(computing))
+- [Wikipedia - Interpreted Language](https://en.wikipedia.org/wiki/Interpreted_language)
+
 ## What is the JVM?
 
 - Virtual Machine for executing Java bytecode.
 - Implemented for thousands of machine architectures.
+
+### Further Reading:
+- [Wikipedia - Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine)
 
 ## What is object-oriented programming (OOP)?
 
@@ -80,6 +91,10 @@ TBD
   - Java
   - Javascript
   - Scala
+
+### Further Reading:
+- [Wikipedia - Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+
 
 ## What is functional programming (FP)?
 
@@ -110,6 +125,9 @@ TBD
 ```
 
 - Most languages designed for FP have functions as First-Class citizens, meaning functions can be passed as arguments to other functions.
+
+### Further Reading:
+- [Wikipedia - Funcational programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 ### Advantages
 - Makes code easier to reason about as you don't have to understand the context around it.
